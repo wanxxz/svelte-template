@@ -1,0 +1,16 @@
+/*
+
+!.gitignore
+
+!src
+!static
+
+!.editorconfig
+!.huskyrc
+!.lintstagedrc
+!.prettierrc
+
+!README.md
+!package.json
+!svelte.config.js
+!tsconfig.json
